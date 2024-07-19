@@ -1,0 +1,14 @@
+.blogs-card {
+    display: grid;
+    /* grid-template-columns: auto; */
+    margin: 20px auto;
+}
+
+
+.user-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px;
+}
